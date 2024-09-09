@@ -3,4 +3,4 @@
 
 Hi this is my first HTML project with the Odin Project! :D
 
-The plan is to create a very basic rough draft of a recipe website. There is going to be a main page that has three links to seperate pages displaying recipes. 
+The plan is to create a very basic rough draft of a recipe website. There is going to be a main page that has three links to seperate pages displaying recipes. All the recipes are going to be themed around a certain indie video game.
